@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://janardhanbathula.github.io/sitemap.xml
